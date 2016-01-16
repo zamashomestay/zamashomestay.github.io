@@ -1,0 +1,52 @@
+ <!-- About Section -->
+    <section class="success" id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Kemudahan</h2>
+                    <hr class="star-light">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-4">
+		    <h4>Lokasi berdekatan</h4>
+		    <ul>
+			<li>2km ke Wakaf Che Yeh, ( 5 minit )</li>
+			<li>2km ke RTC ( 5 minit )</li>
+			<li>4km ke Kb Mall ( pusat beli belah )( 10 minit )</li>
+			<li>30 Minit ke Rantau Panjang (Sempadan Golok)</li>
+			<li>15 Minit dari Airport Sultan Ismail Petra</li>
+			<li>4km ke Kota Bharu ( 10 minit )</li>	
+		    </ul>
+                </div>
+                <div class="col-lg-4">
+                    <h4>Kemudahan berdekatan</h4>
+                    <ul>
+                         <li>Berhampiran kedai 24jam</li>
+                         <li>Berhampiran masjid dan surau</li>
+                         <li>Berdekatan dengan restoran-restoran dan kedai-kedai makan</li>
+                         <li>2 Minit ke CIMB, Bank Rakyat dan Mesin ATM Bank Islam</li>
+                    </ul>
+                </div>
+               <div class="col-lg-4">
+                    <h4> Kemudahan disediakan</h4>
+                    <ul>
+                         <li>Ruang Pakir yang luas</li>
+                         <li>3 bilik tidur (2 Bilik <strong>Aircond</strong> dan kipas, 1 bilik kipas)</li>
+                         <li>2 bilik air</li>
+                         <li>Sejadah</li>
+                         <li>Peti ais</li>
+                         <li>Astro</li>
+                         <li>Waterheater (air panas)</li>
+                         <li>Iron</li>
+                         <li>Pemanas air (mandian)</li>
+                    </ul>
+                </div>
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <a href="#" class="btn btn-lg btn-outline">
+                        <i class="fa fa-download"></i> Home
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
