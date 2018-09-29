@@ -1,0 +1,53 @@
+[33mcommit 9280ad2661bb8c2cb80aab5bd214f8c4edf69430[m
+Author: bdkbaik <sif_94@yahoo.com>
+Date:   Sat Sep 29 19:12:19 2018 +0800
+
+    Update gemlock
+
+[33mcommit 1f877a7025fd7d9fbb648dccc661c7db2d90f445[m
+Author: bdkbaik <sif_94@yahoo.com>
+Date:   Sat Sep 29 18:33:21 2018 +0800
+
+    Change DNS
+
+[33mcommit c9547a7f15b5412c050c21484acc7002e7ea9eed[m
+Author: Nasif <zamashome@gmail.com>
+Date:   Sun Jan 17 00:48:32 2016 -0800
+
+    dns update
+
+[33mcommit 4e0cb25ea7c072bb300f920df643339b99074d5c[m
+Author: Nasif <zamashome@gmail.com>
+Date:   Sat Jan 16 19:40:31 2016 -0800
+
+    meta
+
+[33mcommit 5a8297fc37f4a8d8d045a4b2a23d6d243ae8b9d1[m
+Author: Nasif <zamashome@gmail.com>
+Date:   Sat Jan 16 19:31:19 2016 -0800
+
+    Google Analytic
+
+[33mcommit 68b92586dba5cd9265f46f1349e3293b97a4186a[m
+Author: Nasif <zamashome@gmail.com>
+Date:   Sat Jan 16 19:23:18 2016 -0800
+
+    Url Issue
+
+[33mcommit 7c5e5eb9544ba6e30c0f6747013262f9e77393ff[m
+Author: Nasif <zamashome@gmail.com>
+Date:   Sat Jan 16 19:20:57 2016 -0800
+
+    CNAME Added
+
+[33mcommit 3363f87db26b52b2f2307c19ab871b340613b3d8[m
+Author: Nasif <zamashome@gmail.com>
+Date:   Sat Jan 16 09:05:07 2016 -0800
+
+    Baseurl
+
+[33mcommit 3498d7d5951e39384d396a7af0f9bc946c46c68b[m
+Author: Nasif <zamashome@gmail.com>
+Date:   Sat Jan 16 08:43:00 2016 -0800
+
+    initial page commit
