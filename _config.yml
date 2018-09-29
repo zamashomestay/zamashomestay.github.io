@@ -1,14 +1,14 @@
 # Site settings
 title: Zamas Homestay
 email: zamashome@gmail.com
-url: http://homestayzamas.tk
-description: "zamas.tk zamashomestay zamas homestay kelantan kota bharu wakaf che yeh guest house selesa bunot payong"
+url: https://zamashomestay.github.io
+description: "zamashomestay zamas homestay kelantan kota bharu wakaf che yeh guest house selesa bunot payong"
 skills: "Mudah - Selesa - Bersih"
 meta_author: Nasif Ahmad
 baseurl: ""
 
 # Google webmaster tools
-google_verify:
+google_verify: cRyAwgisIsSJnY8ACBipdsm3JdZTUjtZGquu6zXiD2M
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
