@@ -33,7 +33,7 @@ color:
 # Footer settings
 footer:
   copyright: Zamas Homestay
-  location: Location
+  location: Alamat
   social: Around the Web
   credits: Credits
 
@@ -46,7 +46,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Kota Bharu
+  - line: Bunot Payong, Kota Bharu
   - line: Kelantan
 
 # Credits content
